@@ -107,7 +107,7 @@
         "NOT_FOUND": "Não há atributos personalizados configurados"
       },
       "REGEX_PATTERN": {
-        "LABEL": "Regex Pattern",
+        "LABEL": "Expressão regular (regex)",
         "PLACEHOLDER": "Por favor, insira o padrão de expressão regular para atributo personalizado. (Opcional)"
       },
       "REGEX_CUE": {

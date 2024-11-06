@@ -1,8 +1,8 @@
 {
   "AUTOMATION": {
     "HEADER": "Automação",
-    "DESCRIPTION": "Automation can replace and streamline existing processes that require manual effort, such as adding labels and assigning conversations to the most suitable agent. This allows the team to focus on their strengths while reducing time spent on routine tasks.",
-    "LEARN_MORE": "Learn more about automation",
+    "DESCRIPTION": "A automação pode substituir e simplificar processos existentes que exigem esforço manual, como adicionar rótulos e atribuir conversas ao agente mais adequado. Isso permite que a equipe se concentre em seus pontos fortes, ao mesmo tempo em que reduz o tempo gasto em tarefas de rotina.",
+    "LEARN_MORE": "Aprenda mais sobre automações",
     "HEADER_BTN_TXT": "Adicionar regra de automação",
     "LOADING": "Buscando regras de automação",
     "ADD": {
@@ -95,8 +95,8 @@
       "DELETE_MESSAGE": "Você precisa ter pelo menos uma ação para salvar",
       "TEAM_MESSAGE_INPUT_PLACEHOLDER": "Escreva sua mensagem aqui",
       "TEAM_DROPDOWN_PLACEHOLDER": "Selecione o time",
-      "EMAIL_INPUT_PLACEHOLDER": "Enter email",
-      "URL_INPUT_PLACEHOLDER": "Enter URL"
+      "EMAIL_INPUT_PLACEHOLDER": "Digite o email",
+      "URL_INPUT_PLACEHOLDER": "Digite o link"
     },
     "TOGGLE": {
       "ACTIVATION_TITLE": "Ativar regra de automação",
@@ -118,13 +118,13 @@
       "LABEL_UPLOAD_FAILED": "Faha no envio"
     },
     "ERRORS": {
-      "ATTRIBUTE_KEY_REQUIRED": "Attribute key is required",
-      "FILTER_OPERATOR_REQUIRED": "Filter operator is required",
+      "ATTRIBUTE_KEY_REQUIRED": "O atributo chave é obrigatório",
+      "FILTER_OPERATOR_REQUIRED": "É obrigatório o operador de filtro",
       "VALUE_REQUIRED": "Valor obrigatório",
-      "VALUE_MUST_BE_BETWEEN_1_AND_998": "Value must be between 1 and 998",
-      "ACTION_PARAMETERS_REQUIRED": "Action parameters are required",
-      "ATLEAST_ONE_CONDITION_REQUIRED": "At least one condition is required",
-      "ATLEAST_ONE_ACTION_REQUIRED": "At least one action is required"
+      "VALUE_MUST_BE_BETWEEN_1_AND_998": "O valor deve estar entre 1 e 998",
+      "ACTION_PARAMETERS_REQUIRED": "É obrigatório ter um parâmetro de ação",
+      "ATLEAST_ONE_CONDITION_REQUIRED": "É obrigatório ter pelo menos uma condição",
+      "ATLEAST_ONE_ACTION_REQUIRED": "É obrigatório ter pelo menos uma ação"
     }
   }
 }

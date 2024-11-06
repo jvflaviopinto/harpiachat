@@ -41,7 +41,7 @@ $header-height: 3.5rem;
 $woot-logo-padding: $space-large $space-two;
 
 // Colors
-$color-woot: #1f93ff;
+$color-woot: #8b80f9;
 $color-gray: #6e6f73;
 $color-light-gray: #999a9b;
 
@@ -55,10 +55,10 @@ $color-background-light: var(--s-25);
 $color-white: #fff;
 $color-body: #3c4858;
 $color-heading: #1f2d3d;
-$color-extra-light-blue: #f5f7f9;
+$color-extra-light-blue: #f8f5f9;
 
 $primary-color: $color-woot;
-$secondary-color: #5d7592;
+$secondary-color: #765d92;
 $success-color: #44ce4b;
 $warning-color: #ffc532;
 $alert-color: #ff382d;
@@ -67,7 +67,7 @@ $masked-bg: rgba(0, 0, 0, .4);
 
 // Color-palettes
 
-$color-primary-light: #c7e3ff;
+$color-primary-light: #edc7ff;
 $color-primary-dark: darken($color-woot, 20%);
 
 // Thumbnail

@@ -4,23 +4,23 @@
     "TITLE": "Registrar",
     "TESTIMONIAL_HEADER": "Tudo o que ele leva é um passo para avançar",
     "TESTIMONIAL_CONTENT": "Você está a um passo de engajar seus clientes, mantê-los e encontrar novos.",
-    "TERMS_ACCEPT": "Ao criar uma conta, você concorda com nosso <a href=\"https://www.chatwoot.com/terms\">T & C</a> e nossa <a href=\"https://www.chatwoot.com/privacy-policy\">Política de privacidade</a>",
+    "TERMS_ACCEPT": "Ao criar uma conta, você concorda com nosso <a href=\"https://harpiadev.org/chat/termos\">T & C</a> e nossa <a href=\"https://harpiadev.org/chat/privacidade\">Política de privacidade</a>",
     "OAUTH": {
       "GOOGLE_SIGNUP": "Cadastre-se com o Google"
     },
     "COMPANY_NAME": {
       "LABEL": "Nome Empresa",
-      "PLACEHOLDER": "Digite seu nome da sua empresa. Ex: Empresas Wayne",
+      "PLACEHOLDER": "Digite seu nome da sua empresa. Ex: Empresas Harpia",
       "ERROR": "O nome da empresa é muito curto."
     },
     "FULL_NAME": {
       "LABEL": "Nome Completo",
-      "PLACEHOLDER": "Digite seu nome completo. Ex.: Bruce Wayne",
+      "PLACEHOLDER": "Digite seu nome completo. Ex.: João Flávio",
       "ERROR": "Nome completo é muito curto."
     },
     "EMAIL": {
       "LABEL": "E-mail comercial",
-      "PLACEHOLDER": "Digite seu e-mail de trabalho. Ex.: bruce{'@'}wayne.com.br",
+      "PLACEHOLDER": "Digite seu e-mail de trabalho. Ex.: contato{'@'}joaoflavio.com",
       "ERROR": "Por favor, insira um endereço de e-mail de trabalho válido."
     },
     "PASSWORD": {
